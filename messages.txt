@@ -1,31 +1,15 @@
-oop,alma,heloka
-oop,alma,malacka
-oop,almácska,xd
-oop,alma,szia
-alma,oop,abb
-oop,alma,ssaa
-oop,alma,szaja
-oop,alma,malacozások
-oop,almácska,saassa
-egyik,masik,alma
-masik,egyik,korte
-egyik,masik,dasdasd
-egyik,masik,dasda
-masik,egyik,adasds
-alma,malacka,rudi
-malacka,alma,szaja szeretlek
-alma,malacka,én is téged
-alma,korte,szaja
-korte,alma,szia szerelmembabám
-alma,korte,mi a helyzet?
-alma,korte,rudizások
-korte,alma,heloka
-alma,masikmalacka,a
-alma,korte,h
-korte,alma,szajasztok
-alma,korte,alma
-uj5,uj6,csokolom
-uj6,uj5,en is teged
-alma,korte,heloka
-korte,alma,alma
-korte,egyik,szerbusz adorján
+korte,alma,bananakor
+korte,alma,banana223
+alma,korte,oopooojnn
+korte,alma,bananafda
+alma,korte,poivjnass
+Malac,Roka,helo
+Roka,Jozsi,Szia
+Jozsi,Roka,csokollak
+Adam,Roka,szia
+Adam,Roka,Hogy vagy?
+Roka,Adam,Szia
+Roka,Adam,Jol
+Roka,Adam,Es te?
+Adam,Roka,En is
+Adam,Roka,Eine neue nachricht
